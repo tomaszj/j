@@ -1,3 +1,7 @@
+# Fork's changes
+
+Use `j` instead of `k` for the command, to prevent a conflict with `kubectl` plugin for ZSH.
+
 [![k.supercrabtree.com](https://raw.githubusercontent.com/supercrabtree/k/gh-pages/k-logo.png)](http://k.supercrabtree.com)
 
 > k is the new l, yo
